@@ -1,0 +1,48 @@
+<?php
+
+return [
+    [
+        'id' => 'sr-carrier-yellow',
+        'name' => 'حاملة أطفال مريحة',
+        'category' => 'SR Kids',
+        'price' => 2290,
+        'oldPrice' => 3200,
+        'badge' => 'الأكثر مبيعًا',
+        'image' => 'public/products/حاملة أطفال مريحة.jpeg',
+        'description' => 'حاملة أطفال عملية ومريحة للاستخدام اليومي، مصممة لتساعد الأم والأب على حمل الطفل بسهولة وراحة.',
+        'features' => ['مناسبة للاستخدام اليومي', 'تصميم مريح', 'سهلة الحمل والتنقل', 'ألوان متعددة'],
+    ],
+    [
+        'id' => 'sr-carrier-black',
+        'name' => 'حاملة أطفال — لون أسود',
+        'category' => 'SR Kids',
+        'price' => 2290,
+        'oldPrice' => 3200,
+        'badge' => 'جديد',
+        'image' => 'public/products/carrier-black.webp',
+        'description' => 'حاملة أطفال باللون الأسود بتصميم عملي يناسب الاستخدام اليومي.',
+        'features' => ['لون أسود أنيق', 'مريحة في الاستخدام', 'عملية للتنقل'],
+    ],
+    [
+        'id' => 'sr-mom-product',
+        'name' => 'منتج عملي للأم والطفل',
+        'category' => 'SR Mom',
+        'price' => 2490,
+        'oldPrice' => 2990,
+        'badge' => 'عرض',
+        'image' => 'public/products/mom-product.jpeg',
+        'description' => 'منتج عملي مختار بعناية لمساعدة الأم في الحياة اليومية.',
+        'features' => ['عملي للاستخدام اليومي', 'مختار بعناية', 'مناسب للأم'],
+    ],
+    [
+        'id' => 'sr-family-product',
+        'name' => 'منتج عائلي جديد',
+        'category' => 'SR Family',
+        'price' => 2790,
+        'oldPrice' => 3290,
+        'badge' => 'جديد',
+        'image' => 'public/products/family-product.jpeg',
+        'description' => 'اختيار جديد من SR Family مصمم ليكون عمليًا للعائلة.',
+        'features' => ['مناسب للعائلة', 'تصميم عملي', 'اختيار جديد من SR'],
+    ],
+];
